@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Genetics, University of Otago, 2019
+* BSc. in Genetics, University of Otago, 2019
 * DipLang. in Spanish, University of Otago, 2019
 * PGDipSci in Genetics, Univeristy of Otago, 2020
 * MSc in Microbiology, Univeristy of Otago, 2022 (expected)
